@@ -1,0 +1,8 @@
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('1', 'pies', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('2', 'kot', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('3', 'krowa', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('4', 'dzik', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('5', '1', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('6', '4', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('7', '41', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('8', '44444', '0');
