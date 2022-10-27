@@ -14,3 +14,17 @@ INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('13', 'czar
 INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('14', 'biały', '0');
 INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('15', 'dziwny', '1');
 INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('16', 'różowy', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('18', 'Jacek (profesionalny złodziej)', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('19', 'Janek (jeździ nowym rowerem)', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('20', 'Bartek (jeździ rowerem Ewy)', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('21', 'Jamal', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('22', 'dwa', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('23', 'siedem', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('24', 'osiem', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('25', 'jeden', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('26', 'enter', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('27', 'destroy', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('28', 'delete', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('29', 'find', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('30', 'pageup', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('31', 'print screen', '1');
