@@ -6,3 +6,11 @@ INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('5', '1', '
 INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('6', '4', '1');
 INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('7', '41', '0');
 INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('8', '44444', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('9', '0', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('10', '90', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('11', '9320', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('12', '-2', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('13', 'czarny', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('14', 'biały', '0');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('15', 'dziwny', '1');
+INSERT INTO `answers` (`idanswers`, `description`, `corect`) VALUES ('16', 'różowy', '0');
