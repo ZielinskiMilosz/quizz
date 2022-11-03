@@ -1,1 +1,0 @@
-SELECT * FROM questions JOIN answers ON id = questions.id
