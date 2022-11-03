@@ -1,0 +1,11 @@
+INSERT INTO `questions` (`description`) VALUES
+('czy jest słońce? '),
+('2+2'),
+('zaznacz psa'),
+('co to mysz'),
+('kolor czerwony to'),
+('po co jest messenger'),
+('jakie zwierze jest podobne do człowieka'),
+('co to jest bulbulator'),
+('kto to beczka'),
+('czy życie ma sens');
