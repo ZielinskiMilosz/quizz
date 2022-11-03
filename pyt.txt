@@ -1,7 +1,0 @@
-INSERT INTO `questions` (`idquestions`, `description`, `answers_idanswers`) VALUES ('2', 'ile to 2+2?', '6');
-INSERT INTO `questions` (`idquestions`, `description`, `answers_idanswers`) VALUES ('1', 'co jest kotem?', '2');
-INSERT INTO `questions` (`idquestions`, `description`, `answers_idanswers`) VALUES ('4', 'jakiego koloru są czarnuchy?', '13');
-INSERT INTO `questions` (`idquestions`, `description`, `answers_idanswers`) VALUES ('3', 'który to kąt prosty?', '10');
-INSERT INTO `questions` (`idquestions`, `description`, `answers_idanswers`) VALUES ('5', 'Kto ukradł rower Ewy', '21');
-INSERT INTO `questions` (`idquestions`, `description`, `answers_idanswers`) VALUES ('6', 'ile dni ma tydzień?', '23');
-INSERT INTO `questions` (`idquestions`, `description`, `answers_idanswers`) VALUES ('7', 'jakie są przyciski na klawiaturze ?', '31,30,28,26');
